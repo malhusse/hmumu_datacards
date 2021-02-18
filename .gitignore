@@ -1,0 +1,16 @@
+*.pyc
+*~
+run/*/*.root
+run/*/*/*.root
+*.err
+*.log
+*.out
+condor_*.sh
+*.sub
+run/datacard*.root
+run/datacard*.txt
+*condorJunk/
+*batchOutputs/
+*.pdf
+*.png
+*.json
